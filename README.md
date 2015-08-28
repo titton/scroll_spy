@@ -1,0 +1,1 @@
+A simple jQuery plugin for spying on elements during scroll to determine which of them is "active" at a certain moment.
